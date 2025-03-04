@@ -28,7 +28,7 @@ This project involves the finite element analysis (FEA) and structural design of
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/hemanth-add/Design-of-a-Truss-Bridge.git
    ```
 2. Open the project files in **Strand7**.
 3. Run the provided analysis models to validate results.
