@@ -25,15 +25,6 @@ This project involves the finite element analysis (FEA) and structural design of
 - **Standards**: Australian Bridge Design Code (AS5100)
 - **Programming (if applicable)**: Python/MATLAB for additional calculations
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/hemanth-add/Design-of-a-Truss-Bridge.git
-   ```
-2. Open the project files in **Strand7**.
-3. Run the provided analysis models to validate results.
-4. Modify input parameters to explore different design scenarios.
-
 ## Contributors
 - Hemanth Addagarla
 - Battagodage Sandini Supundara Palitha
